@@ -13,7 +13,7 @@ I'm a passionate cybersecurity student with a strong interest in ethical hacking
 
 ## 🛠️ Skills & Tools
 
-`Python` `Linux` `Kali` `Wireshark` `Nmap` `Burp Suite` `Metasploit`  
+`Python` `Kali` `Linux` `Wireshark` `Nmap` `Burp Suite` `Metasploit`  
 `Node.js` `React.js`  `GERATIVE AI`
 `Splunk`  `Postman`
 
