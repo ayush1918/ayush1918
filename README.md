@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Sharma
 
-<!--
-**ayush1918/ayush1918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student | 🛡️ Ethical Hacker | 
+📍 B.Tech CSE (Cybersecurity) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+I'm a passionate cybersecurity student with a strong interest in ethical hacking, threat intelligence, and secure systems development. I love solving CTFs, building security tools, and exploring dark web de-anonymization techniques. I also enjoy automating security workflows and working on real-time monitoring platforms.
+
+---
+
+## 🛠️ Skills & Tools
+
+`Python` `Linux` `Kali` `Wireshark` `Nmap` `Burp Suite` `Metasploit`  
+`Node.js` `React.js` `MongoDB` `MERN STACK` `GERATIVE AI`
+`Splunk`  `Postman`
+
+---
+
+## 🚀 Projects
+
+- 🕵️‍♂️ **Insider Threat Detection using Behavioral Analytics**  
+- 🌐 **TOR Network De-anonymization Tool**  
+- 📊 **Real-time Cyber Threat Feed for Indian Cyberspace**  
+- 🛡️ **DDoS Protection System on Cloud (AWS)**  
+- ⚙️ **Threat Hunting Platform with Live Dashboard**  
+
+---
+
+## 🧠 Currently Learning
+
+- Malware Analysis & Reverse Engineering  
+- Cloud Security (AWS/GCP)  
+- Advanced Persistent Threat (APT) Detection  
+- Red Teaming & Blue Team Operations  
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](#) • [Twitter](#) • [Portfolio](#) • [Blog](#)
+
+---
