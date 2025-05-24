@@ -21,19 +21,17 @@ I'm a passionate cybersecurity student with a strong interest in ethical hacking
 
 ## 🚀 Projects
 
-- 🕵️‍♂️ **Insider Threat Detection using Behavioral Analytics**  
+ 
 - 🌐 **TOR Network De-anonymization Tool**  
-- 📊 **Real-time Cyber Threat Feed for Indian Cyberspace**  
-- 🛡️ **DDoS Protection System on Cloud (AWS)**  
-- ⚙️ **Threat Hunting Platform with Live Dashboard**  
+- 🛡️ Network Exploitation & Defense Simulation 🔍 
+ 
+ 
 
 ---
 
 ## 🧠 Currently Learning
 
 - Malware Analysis & Reverse Engineering  
-- Cloud Security (AWS/GCP)  
-- Advanced Persistent Threat (APT) Detection  
 - Red Teaming & Blue Team Operations  
 
 ---
