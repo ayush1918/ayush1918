@@ -38,6 +38,6 @@ I'm a passionate cybersecurity student with a strong interest in ethical hacking
 
 ## 📫 Let's Connect
 
-[LinkedIn](#) • [Twitter](#) • [Portfolio](#) • [Blog](#)
+[(https://www.linkedin.com/in/ayush-sharma-884595255/)](#) • [Twitter](#) • [Portfolio](#) • [Blog](#)
 
 ---
