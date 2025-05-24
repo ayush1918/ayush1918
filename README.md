@@ -52,5 +52,6 @@ I'm a passionate cybersecurity student with a strong interest in ethical hacking
 - [LinkedIn](https://linkedin.com/in/ayush-sharma-884595255)
 - [GitHub](https://github.com/ayush1918)
 - [Email](mailto:ayushsharmahr4@gmail.com)
+- [leetcode](https://leetcode.com/u/ayushsharmahr4/)
 
 ---
